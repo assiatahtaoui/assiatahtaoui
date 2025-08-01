@@ -35,4 +35,24 @@ Apache Spark | Kafka | HDFS | Docker
 ## 🔍 Projets en vedette
 
 - Application de gestion des patients — JavaFX, MySQL, Scene Builder  
-- Plateforme e-commerce — Spring Boot, Spring Security, Angul
+- Plateforme e-commerce — Spring Boot, Spring Security, Angular  
+- Agents IA avec Spring AI + OpenAI GPT-4o et DALL·E  
+- Application météo en streaming — Kafka et Spark
+
+---
+
+## 🎓 Certifications & Formations
+
+✅ Oracle Java SE 17 (en cours de préparation)  
+✅ Red Hat System Administration  
+✅ CCNA : Introduction to Networks – Cisco English IT 1 Certification  
+✅ Python pour la Data Science  
+✅ Certification Java Avancé (Udemy)
+
+---
+
+## 📫 Me contacter
+
+🔗 [LinkedIn](https://www.linkedin.com/in/tahtaoui-assia-7b27a8139/)  
+🖥️ [GitHub](https://github.com/assiatahtaoui)  
+📧 tahtaouiassia04@gmail.com
