@@ -1,58 +1,63 @@
-# 👋 Bonjour, je suis Assia Tahtaoui !
+👋 Bonjour, je suis Assia Tahtaoui !
 
-🎓 Étudiante en 1ère année de Master Ingénierie Informatique - Big Data & Cloud Computing (ENSET)  
+🎓 Étudiante en 1ère année de Master Ingénierie Informatique - Big Data & Cloud Computing (ENSET)
 💼 Gestionnaire Administrative & RH avec plus de 5 ans d'expérience
 
 📍 Basée au Maroc | 💬 Je parle français, arabe et anglais
 
----
+👩‍💻 À propos de moi
 
-## 👩‍💻 À propos de moi
-
-Je suis étudiante en Master, spécialisée en Big Data et Cloud Computing, passionnée par le développement Java, les technologies Cloud, l’Intelligence Artificielle et le DevOps.  
+Je suis étudiante en Master, spécialisée en Big Data et Cloud Computing, passionnée par le développement Java, les technologies Cloud, l’Intelligence Artificielle et le DevOps.
 J’aime construire des applications robustes, automatiser des workflows et apprendre constamment pour rester à la pointe des technologies.
 
----
+🛠️ Boîte à outils technologique
 
-## 🛠️ Boîte à outils technologique
+Big Data & Streaming
+Apache Kafka | Kafka Streams | Hadoop | HDFS | Apache Spark
 
-**Langages & Frameworks**  
-Java | Spring Boot | Spring Security | React | SQL | Angular | TypeScript | Python
+Langages
+Java (SE & EE) | Python | TypeScript | SQL | HTML | CSS
 
-**Big Data & Cloud**  
-Apache Spark | Kafka | HDFS | Docker
+Frameworks & APIs
+Spring Boot | Angular | Spring Security | Hibernate | Thymeleaf | REST | SOAP | MCP
 
----
+Outils & Conteneurs
+Git | Maven | Postman | Docker | VPN
 
-## 🧠 Centres d’intérêt actuels
+Réseaux & Systèmes
+TCP/IP | DHCP | DNS | Windows | Linux
 
-🤖 Intégration de l’IA avec Spring et OpenAI  
-🌐 Développement d’API REST sécurisées avec Java/Spring Boot  
+Autres
+Microsoft Office (Excel avancé) | Sage | SPESS | Zendesk | Jira
+
+🧠 Centres d’intérêt actuels
+
+🤖 Intégration de l’IA avec Spring et OpenAI
+🌐 Développement d’API REST sécurisées avec Java/Spring Boot
 ⚡ Traitement en temps réel avec Kafka Streams et Spark
 
----
+🔍 Projets en vedette
 
-## 🔍 Projets en vedette
+Application de gestion des patients — JavaFX, MySQL, Scene Builder
 
-- Application de gestion des patients — JavaFX, MySQL, Scene Builder  
-- Plateforme e-commerce — Spring Boot, Spring Security, Angular  
-- Agents IA avec Spring AI + OpenAI GPT-4o et DALL·E  
-- Application météo en streaming — Kafka et Spark
+Plateforme e-commerce — Spring Boot, Spring Security, Angular
 
----
+Agents IA avec Spring AI + OpenAI GPT-4o et DALL·E
 
-## 🎓 Certifications & Formations
+Application météo en streaming — Kafka et Spark
 
-✅ Oracle Java SE 17 (en cours de préparation)  
-✅ Red Hat System Administration  
-✅ CCNA : Introduction to Networks – Cisco English IT 1 Certification  
-✅ Python pour la Data Science  
+🎓 Certifications & Formations
+
+✅ Oracle Java SE 17 (en cours de préparation)
+✅ Red Hat System Administration
+✅ CCNA : Introduction to Networks – Cisco English IT 1 Certification
+✅ Python pour la Data Science
 ✅ Certification Java Avancé (Udemy)
 
----
+📫 Me contacter
 
-## 📫 Me contacter
+🔗 LinkedIn
 
-🔗 [LinkedIn](https://www.linkedin.com/in/tahtaoui-assia-7b27a8139/)  
-🖥️ [GitHub](https://github.com/assiatahtaoui)  
+🖥️ GitHub
+
 📧 tahtaouiassia04@gmail.com
