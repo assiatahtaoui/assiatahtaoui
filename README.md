@@ -1,63 +1,60 @@
-👋 Bonjour, je suis Assia Tahtaoui !
+# 👋 Bonjour, je suis Assia Tahtaoui !
 
-🎓 Étudiante en 1ère année de Master Ingénierie Informatique - Big Data & Cloud Computing (ENSET)
-💼 Assistante support applicatif – Plateforme AlisWeb avec plus de 5 ans d'expérience
+🎓 Étudiante en **Master 1 Ingénierie Informatique – Big Data & Cloud Computing** (ENSET)  
+💼 **Assistante support applicatif** – Plateforme AlisWeb | +5 ans d’expérience  
 
-📍 Basée au Maroc | 💬 Je parle français, arabe et anglais
+📍 Maroc | 💬 Français • Arabe • Anglais  
 
-👩‍💻 À propos de moi
+---
 
-Je suis étudiante en Master, spécialisée en Big Data et Cloud Computing, passionnée par le développement Java, les technologies Cloud, l’Intelligence Artificielle et le DevOps.
-J’aime construire des applications robustes, automatiser des workflows et apprendre constamment pour rester à la pointe des technologies.
+## 👩‍💻 À propos de moi
+Passionnée par le **Big Data**, le **Cloud Computing**, le **Java** et le **DevOps**, j’aime développer des applications robustes et sécurisées, automatiser des workflows et intégrer l’**IA** dans mes projets.  
+Mon objectif : construire des solutions modernes et innovantes, en combinant **Java/Spring**, **Angular**, et les technologies **Cloud & Data**.  
 
-🛠️ Boîte à outils technologique
+---
 
-Big Data & Streaming
-Apache Kafka | Kafka Streams | Hadoop | HDFS | Apache Spark
+## 🛠️ Boîte à outils technologique
 
-Langages
-Java (SE & EE) | Python | TypeScript | SQL | HTML | CSS
+### 🚀 Big Data & Streaming
+- Apache Kafka | Kafka Streams | Hadoop | HDFS | Apache Spark  
 
-Frameworks & APIs
-Spring Boot | Angular | Spring Security | Hibernate | Thymeleaf | REST | SOAP | MCP
+### 💻 Langages
+- Java (SE & EE) | Python | TypeScript | SQL | HTML | CSS  
 
-Outils & Conteneurs
-Git | Maven | Postman | Docker | VPN
+### ⚙️ Frameworks & APIs
+- Spring Boot | Angular | Spring Security | Hibernate | Thymeleaf | REST | SOAP | MCP  
 
-Réseaux & Systèmes
-TCP/IP | DHCP | DNS | Windows | Linux
+### 🧰 Outils & Conteneurs
+- Git | Maven | Postman | Docker | VPN  
 
-Autres
-Microsoft Office (Excel avancé) | Sage | SPESS | Zendesk | Jira
+### 🌐 Réseaux & Systèmes
+- TCP/IP | DHCP | DNS | Windows | Linux  
 
-🧠 Centres d’intérêt actuels
+### 📊 Autres
+- Microsoft Office (Excel avancé) | Sage | SPESS | Zendesk | Jira  
 
-🤖 Intégration de l’IA avec Spring et OpenAI
-🌐 Développement d’API REST sécurisées avec Java/Spring Boot
-⚡ Traitement en temps réel avec Kafka Streams et Spark
+---
 
-🔍 Projets en vedette
+## 🔍 Projets en vedette
 
-Application de gestion des patients — JavaFX, MySQL, Scene Builder
+- 🏥 **Application de gestion des patients** — *JavaFX, MySQL, Scene Builder*  
+- 🛒 **Plateforme e-commerce** — *Spring Boot, Spring Security, Angular*  
+- 🤖 **Agents IA** — *Spring AI + OpenAI GPT-4o & DALL·E*  
+- ☁️ **Application météo en streaming** — *Kafka & Spark*  
 
-Plateforme e-commerce — Spring Boot, Spring Security, Angular
+---
 
-Agents IA avec Spring AI + OpenAI GPT-4o et DALL·E
+## 🎓 Certifications & Formations
 
-Application météo en streaming — Kafka et Spark
+- 📌 Oracle Java SE 17 *(en cours de préparation)*  
+- 📌 Red Hat System Administration  
+- 📌 CCNA : Introduction to Networks – Cisco English IT 1 Certification  
+- 📌 Python pour la Data Science  
+- 📌 Certification Java Avancé *(Udemy)*  
 
-🎓 Certifications & Formations
+---
 
-✅ Oracle Java SE 17 (en cours de préparation)
-✅ Red Hat System Administration
-✅ CCNA : Introduction to Networks – Cisco English IT 1 Certification
-✅ Python pour la Data Science
-✅ Certification Java Avancé (Udemy)
-
-📫 Me contacter
-
-🔗 LinkedIn
-
-🖥️ GitHub
-
-📧 tahtaouiassia04@gmail.com 
+## 📫 Me contacter
+- 🔗 [LinkedIn](https://www.linkedin.com/) *(ajouter ton lien)*  
+- 🖥️ [GitHub](https://github.com/) *(ajouter ton lien)*  
+- 📧 **tahtaouiassia04@gmail.com**
