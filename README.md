@@ -1,7 +1,7 @@
 👋 Bonjour, je suis Assia Tahtaoui !
 
 🎓 Étudiante en 1ère année de Master Ingénierie Informatique - Big Data & Cloud Computing (ENSET)
-💼 Gestionnaire Administrative & RH avec plus de 5 ans d'expérience
+💼 Assistante support applicatif – Plateforme AlisWeb avec plus de 5 ans d'expérience
 
 📍 Basée au Maroc | 💬 Je parle français, arabe et anglais
 
