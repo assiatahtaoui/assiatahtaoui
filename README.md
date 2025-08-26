@@ -60,4 +60,4 @@ Application météo en streaming — Kafka et Spark
 
 🖥️ GitHub
 
-📧 tahtaouiassia04@gmail.com
+📧 tahtaouiassia04@gmail.com 
